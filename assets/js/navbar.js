@@ -6,15 +6,21 @@ const navigator = `
     <ul>
         <li><a href="index.html">Startseite</a></li>
         <li>
+            <span class="opener">Lernweg</span>
+            <ul>
+                <li><a href="inworks.html">T-Rex Hüpf</a></li>
+            </ul>
+        </li>
+        <li>
             <span class="opener">Grundlagen</span>
             <ul>
+                <li><a href="inworks.html">Scratch Oberfläche</a></li>	
+                <li><a href="inworks.html">Figuren auswählen</a></li>
+                <li><a href="inworks.html">Hintergründe auswählen</a></li>
                 <li><a href="aboutbuttons.html">Buttons</a></li>
                 <li><a href="scenes.html">Szenen</a></li>
                 <li><a href="variables.html">Punkte Zählen</a></li>
                 <li><a href="movement.html">Figuren bewegen</a></li>
-                <li><a href="inworks.html">Figuren auswählen</a></li>
-                <li><a href="inworks.html">Hintergründe auswählen</a></li>
-                <li><a href="inworks.html">Scratch Oberfläche</a></li>	
                 <li><a href="inworks.html">Animationen</a></li>	
                 <li><a href="inworks.html">Soundeffekte</a></li>	
                 <li><a href="inworks.html">Musik</a></li>
@@ -22,12 +28,6 @@ const navigator = `
             </ul>
         </li>
         <li><a href="gdd.html">Spieleentwicklungsdokument</a></li>
-        <li>
-            <span class="opener">Lernweg</span>
-            <ul>
-                <li><a href="inworks.html">T-Rex Hüpf</a></li>
-            </ul>
-        </li>
         <li>
             <span class="opener">Beispielprojekte</span>
             <ul>
