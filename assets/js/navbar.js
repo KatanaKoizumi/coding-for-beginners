@@ -8,7 +8,7 @@ const navigator = `
         <li>
             <span class="opener">Lernweg</span>
             <ul>
-                <li><a href="inworks.html">T-Rex Hüpf</a></li>
+                <li><a href="inworks.html">Scratch kennenlernen</a></li>
             </ul>
         </li>
         <li>
